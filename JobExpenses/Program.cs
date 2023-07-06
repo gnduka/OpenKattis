@@ -16,6 +16,7 @@ namespace Expenses
                 return;
             }
 
+
             string TransactionsString = Console.ReadLine();
             string[] Transactions = TransactionsString.Split();
 
