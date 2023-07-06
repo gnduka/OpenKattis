@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneChickenPerPerson", "OneC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aaaah", "Aaaah\Aaaah.csproj", "{C0D80037-815D-4ADA-B8F0-78F8EE566904}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingAnA", "FindingAnA\FindingAnA.csproj", "{84B1AF95-E626-4E30-8C61-65D35EA10665}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C0D80037-815D-4ADA-B8F0-78F8EE566904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0D80037-815D-4ADA-B8F0-78F8EE566904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0D80037-815D-4ADA-B8F0-78F8EE566904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B1AF95-E626-4E30-8C61-65D35EA10665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B1AF95-E626-4E30-8C61-65D35EA10665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B1AF95-E626-4E30-8C61-65D35EA10665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B1AF95-E626-4E30-8C61-65D35EA10665}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
