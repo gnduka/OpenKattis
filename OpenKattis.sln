@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobExpenses", "JobExpenses\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneChickenPerPerson", "OneChickenPerPerson\OneChickenPerPerson.csproj", "{9B286579-4193-42E4-8BB0-60C59E4DF833}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aaaah", "Aaaah\Aaaah.csproj", "{C0D80037-815D-4ADA-B8F0-78F8EE566904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9B286579-4193-42E4-8BB0-60C59E4DF833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B286579-4193-42E4-8BB0-60C59E4DF833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B286579-4193-42E4-8BB0-60C59E4DF833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D80037-815D-4ADA-B8F0-78F8EE566904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D80037-815D-4ADA-B8F0-78F8EE566904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D80037-815D-4ADA-B8F0-78F8EE566904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D80037-815D-4ADA-B8F0-78F8EE566904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
