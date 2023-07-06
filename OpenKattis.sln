@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aaaah", "Aaaah\Aaaah.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingAnA", "FindingAnA\FindingAnA.csproj", "{84B1AF95-E626-4E30-8C61-65D35EA10665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortTwoNumbers", "SortTwoNumbers\SortTwoNumbers.csproj", "{39582F31-32F9-4584-A9DC-D3F7A879CED0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{84B1AF95-E626-4E30-8C61-65D35EA10665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84B1AF95-E626-4E30-8C61-65D35EA10665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84B1AF95-E626-4E30-8C61-65D35EA10665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39582F31-32F9-4584-A9DC-D3F7A879CED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39582F31-32F9-4584-A9DC-D3F7A879CED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39582F31-32F9-4584-A9DC-D3F7A879CED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39582F31-32F9-4584-A9DC-D3F7A879CED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
