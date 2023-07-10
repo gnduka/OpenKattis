@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingAnA", "FindingAnA\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortTwoNumbers", "SortTwoNumbers\SortTwoNumbers.csproj", "{39582F31-32F9-4584-A9DC-D3F7A879CED0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityAdjustedLifeYear", "QualityAdjustedLifeYear\QualityAdjustedLifeYear.csproj", "{DD0FE68A-CAA5-4905-9CAE-121127F0EAD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{39582F31-32F9-4584-A9DC-D3F7A879CED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39582F31-32F9-4584-A9DC-D3F7A879CED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39582F31-32F9-4584-A9DC-D3F7A879CED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD0FE68A-CAA5-4905-9CAE-121127F0EAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0FE68A-CAA5-4905-9CAE-121127F0EAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0FE68A-CAA5-4905-9CAE-121127F0EAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0FE68A-CAA5-4905-9CAE-121127F0EAD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
