@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityAdjustedLifeYear", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-Sum", "N-Sum\N-Sum.csproj", "{F7A22697-33BC-49EF-9716-FD76F2AEB80A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayMemorisation", "BirthdayMemorisation\BirthdayMemorisation.csproj", "{7E32AA6C-5B9D-490D-82BA-CD1A12428196}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F7A22697-33BC-49EF-9716-FD76F2AEB80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7A22697-33BC-49EF-9716-FD76F2AEB80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7A22697-33BC-49EF-9716-FD76F2AEB80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E32AA6C-5B9D-490D-82BA-CD1A12428196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E32AA6C-5B9D-490D-82BA-CD1A12428196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E32AA6C-5B9D-490D-82BA-CD1A12428196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E32AA6C-5B9D-490D-82BA-CD1A12428196}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
